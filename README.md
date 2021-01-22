@@ -1,2 +1,2 @@
-# Ghorcoom
-YallaShogoul Company project
+# Omnifood
+A site that provides the services of a restaurant
