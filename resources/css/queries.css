@@ -87,12 +87,14 @@
     
     
     
-    h1 { font-size: 170%; }
+    h1 { font-size: 170%;   }
     h2 { font-size: 150%; }
     
     .dodo{
-        font-size: 113%;
-        width: 15rem; 
+            font-size: 19px;
+            width: 15rem;
+            font-weight: 100;
+            color: lightgray; 
     }
     
     .long-copy {
